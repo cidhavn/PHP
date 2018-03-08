@@ -3,24 +3,27 @@
 軟體下載
 
 Step 1. Apache
-https://httpd.apache.org/download.cgi 
-點擊 Stable Release 阪本連結
-點擊 Files for Microsoft Windows 連結
-點擊 Apache Lounge 連結
-下載需要的版本，modules 另外選擇下載
+
+1. https://httpd.apache.org/download.cgi 
+2. 點擊 Stable Release 阪本連結
+3. 點擊 Files for Microsoft Windows 連結
+4. 點擊 Apache Lounge 連結
+5. 下載需要的版本，modules 另外選擇下載
     
 Step 2. PHP
-    For Windows: https://windows.php.net/download/
+
+1. For Windows: https://windows.php.net/download/
     
 Step 3. MySQL
-    For Windows: https://dev.mysql.com/downloads/windows/installer/
-    到下載頁，移至最下方點擊 No thanks, just start my download. 連結
-    
-    安裝參考資料：
-        https://jerrynest.io/windows-mysql-installer/
+
+1. For Windows: https://dev.mysql.com/downloads/windows/installer/
+2. 到下載頁，移至最下方點擊 No thanks, just start my download. 連結
+3. 安裝參考資料：
+     https://jerrynest.io/windows-mysql-installer/
     
 
 ================================================================================
+
 Git 安裝
 
 https://git-scm.com/
