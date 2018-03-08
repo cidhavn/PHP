@@ -3,11 +3,11 @@
 軟體下載
 
 Step 1. Apache
-    https://httpd.apache.org/download.cgi
-    點擊 Stable Release 阪本連結
-    點擊 Files for Microsoft Windows 連結
-    點擊 Apache Lounge 連結
-    下載需要的版本，modules 另外選擇下載
+https://httpd.apache.org/download.cgi 
+點擊 Stable Release 阪本連結
+點擊 Files for Microsoft Windows 連結
+點擊 Apache Lounge 連結
+下載需要的版本，modules 另外選擇下載
     
 Step 2. PHP
     For Windows: https://windows.php.net/download/
